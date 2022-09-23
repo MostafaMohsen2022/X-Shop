@@ -1,7 +1,7 @@
 let productsDB = [
   {
     id: 1,
-    title: "headphone",
+    title: "T-Shirt",
     desc: "We first reviewed the M50x back in 2014, so these over-ears are long established.",
     size: "large",
     imageUrl: "layout/images/t-shirt.webp",
